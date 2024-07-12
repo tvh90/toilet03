@@ -1,6 +1,6 @@
 getgenv().Key = "k31a93678dccdcea1ca155ad"
 getgenv().EquipMacroTroop = true
-getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1260916354681409546/team4Unit.json?ex=66910f5d&is=668fbddd&hm=1e8ba003d50a81aaa53f4031e191547622157953e52af6f847cdeaa881dcd26c&"
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1261173094626758738/tanh.txt?ex=6691fe79&is=6690acf9&hm=86fe1514053d8ee201bbac4ca179baf468f5ab2133b2ef502b920ca6015052f5&"
 getgenv().Config = {
     ["AutoReplay"] = true,
     ["AutoJoinMatch"] = true,
@@ -8,7 +8,7 @@ getgenv().Config = {
     ["SelectMap"] = "TimeFactory (Rewind)",
     ["AutoVoteDifficulty"] = "true",
     ["SelectDifficulty"] = "Nightmare",
-    ["SelectMacro"] = "team4Unit",
+    ["SelectMacro"] = "tanh",
     ["AutoSkip"] = true,
     ["DeleteMap"] = true,
     ["PlayMacro"] = true,
@@ -24,7 +24,7 @@ getgenv().Config = {
     ["ExchangeTier"] = "1",
     ["AutoExchangeEvent"] = true,
     ["MailName"] = "germekpi1720",
-    ["RequiredGem"] = 1000,
+    ["RequiredGem"] = 3000,
     ["AutoMail"] = true,
     ["WH_MatchComplete"] = true,
     ["AutoUseBoost"] = true,
