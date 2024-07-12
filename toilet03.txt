@@ -1,0 +1,38 @@
+getgenv().Key = "k31a93678dccdcea1ca155ad"
+getgenv().EquipMacroTroop = true
+getgenv().ImportMacro = "https://cdn.discordapp.com/attachments/1174162493258608671/1260916354681409546/team4Unit.json?ex=66910f5d&is=668fbddd&hm=1e8ba003d50a81aaa53f4031e191547622157953e52af6f847cdeaa881dcd26c&"
+getgenv().Config = {
+    ["AutoReplay"] = true,
+    ["AutoJoinMatch"] = true,
+    ["TPLobbyIfPlayer"] = true,
+    ["SelectMap"] = "TimeFactory (Rewind)",
+    ["AutoVoteDifficulty"] = "true",
+    ["SelectDifficulty"] = "Nightmare",
+    ["SelectMacro"] = "team4Unit",
+    ["AutoSkip"] = true,
+    ["DeleteMap"] = true,
+    ["PlayMacro"] = true,
+    ["AutoSave"] = true,
+    ["BoostFPS"] = true,
+    ["AutoClaimQuest"] = true,
+    ["AutoClaimEasterQuest"] = true,
+    ["AutoClaimEventPass"] = true,
+    ["AutoClaimVIP"] = false,
+    ["WhiteScreen"] = true,
+    ["DelayJoin"] = "45",
+    ["PlacingFailsafe"] = true,
+    ["ExchangeTier"] = "1",
+    ["AutoExchangeEvent"] = true,
+    ["MailName"] = "germekpi1720",
+    ["RequiredGem"] = 1000,
+    ["AutoMail"] = true,
+    ["WH_MatchComplete"] = true,
+    ["AutoUseBoost"] = true,
+    ["UseBoosts"] = {
+        ["2xCoinsBoost"] = true,
+        ["2xEggsBoost"] = true,
+    },
+    ["UseAll"] = true,
+    ["WebhookURL"] = "",
+}
+loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
